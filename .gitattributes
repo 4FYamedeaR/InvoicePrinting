@@ -8,4 +8,5 @@ LICENSE.zh-CN -text
 NOTICE -text
 THIRD-PARTY-NOTICES.txt -text
 DISTRIBUTION-TERMS.txt -text
-licenses/** -text
+# 第三方许可及参考资料保留原始字节，不参与 GitHub 语言统计。
+licenses/** -text linguist-vendored=true
