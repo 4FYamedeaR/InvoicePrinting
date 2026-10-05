@@ -1,0 +1,9 @@
+中文参考译文
+对应原文：FoxitSansBold-notice.txt
+正式条款以原文为准；本译文不替代随附原文。
+
+完整版权及许可头译文：
+
+版权所有 © 2014 PDFium Authors，保留所有权利。
+使用本源码须遵守 LICENSE 文件中所列的 BSD 风格许可证。
+原始代码版权归 © 2014 Foxit Software Inc. (http://www.foxitsoftware.com) 所有。

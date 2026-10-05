@@ -1,0 +1,53 @@
+# 构建输出
+bin/
+obj/
+artifacts/
+
+# 本工作区使用的本地 SDK 安装资料
+.dotnet/
+.dotnet-install.ps1
+
+# Visual Studio / Rider 配置
+.vs/
+.idea/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 本地冒烟测试项目
+.smoke/
+
+# 开发工具的本地缓存与临时文件
+.codex/
+.openai/
+.cache/
+__pycache__/
+*.pyc
+*.tmp
+*.log
+
+# 本地环境变量与私密配置
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+.credentials/
+.aws/
+credentials.json
+secrets.json
+secrets.*.json
+appsettings.Local.json
+appsettings.*.local.json
+
+# 私钥、签名证书及密钥容器
+*.key
+*.pem
+*.pfx
+*.p12
+*.keystore
+*.jks
+id_rsa*
+id_ed25519*

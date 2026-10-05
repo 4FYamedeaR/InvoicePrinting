@@ -1,0 +1,19 @@
+InvoicePrinting
+版权所有 © 2026 InvoicePrinting 项目贡献者
+
+项目原始代码和文档采用 Apache 许可证 2.0 版。
+完整中文参考译文见 LICENSE.zh-CN，正式条款见 LICENSE。
+
+第三方软件及资料保留各自的版权声明和许可证。项目许可证不替代或扩大
+第三方许可证。组件信息、署名、许可正文及上游来源记录见
+THIRD-PARTY-NOTICES.txt 和 licenses/ 目录。
+
+本发行版包含 Pieter van Ginkel 开发的 PdfiumViewer，以及由 PdfiumBuild
+项目分发的 PDFium 原生构建。
+
+本软件使用 FreeType，部分内容基于 FreeType 团队的成果；部分内容基于
+独立 JPEG 小组的成果。以下保留上游要求的英文署名原文：
+This software uses FreeType and is based in part on the work of the FreeType
+Team. This software is based in part on the work of the Independent JPEG Group.
+
+文中第三方名称用于标明组件来源，不表示第三方赞助或认可本项目。

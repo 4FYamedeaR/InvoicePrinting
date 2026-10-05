@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InvoicePrinting/InvoicePrinting.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/InvoicePrinting.Smoke/InvoicePrinting.Smoke.csproj" />
+  </Folder>
+</Solution>

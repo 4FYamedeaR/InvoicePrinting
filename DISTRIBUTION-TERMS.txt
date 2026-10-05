@@ -1,0 +1,32 @@
+InvoicePrinting — 应用发行版的许可范围
+
+项目原始资料
+------------
+InvoicePrinting 的原始代码和文档采用 Apache 许可证 2.0 版。
+中文参考译文见 LICENSE.zh-CN，正式条款见 LICENSE。本文件不改变该
+许可证，也不对项目原始资料增加限制。
+
+第三方资料
+----------
+随附第三方组件仍受各自许可证约束。组件声明见 THIRD-PARTY-NOTICES.txt，
+许可原文及中文参考译文见 licenses/。第三方项目名称用于署名，不表示
+相关项目认可本软件。中文译文用于辅助阅读，正式条款以上游原文为准。
+
+Microsoft Windows 组件
+----------------------
+Windows 应用可能包含受 Microsoft .NET 库许可证和 Microsoft Windows
+SDK 许可证约束的 .NET/WPF 组件。所收集的完整条款见：
+  licenses/dotnet/windows/NET-Library-License.zh-CN.txt（中文参考译文）
+  licenses/dotnet/windows/NET-Library-License.html（原文）
+  licenses/dotnet/windows/Windows-SDK-License.zh-CN.txt（中文参考译文）
+  licenses/dotnet/windows/Windows-SDK-License.html（原文）
+各二进制组件的适用范围记录见：
+  licenses/dotnet/windows/license-information-windows.zh-CN.md
+  licenses/dotnet/windows/license-information-windows.md（原文）
+
+这些 Microsoft 组件不因项目采用 Apache 许可证而被重新授权。安装、
+使用和再分发均须遵守适用的 Microsoft 条款，包括其中规定的接受协议
+及向下游分发的要求。
+
+保存许可证副本和本许可范围说明，不替代发行者落实必需的最终用户协议
+流程。发行者应保留适用的上游条款，并确保发行安排满足这些条款。

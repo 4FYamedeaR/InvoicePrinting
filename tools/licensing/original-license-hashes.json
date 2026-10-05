@@ -1,0 +1,318 @@
+[
+  {
+    "path": "LICENSE",
+    "sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30"
+  },
+  {
+    "path": "licenses\\dotnet\\runtime-10.0.12\\LICENSE.TXT",
+    "sha256": "D7A68596AB69B06F51CA278A6545148E4269A9381C26D597C13DF5D88E08CF5B"
+  },
+  {
+    "path": "licenses\\dotnet\\runtime-10.0.12\\package.nuspec",
+    "sha256": "2649FC5FCB95C80F991B6D47AD8E10B772923249E87D98F409CA54CEE548C379"
+  },
+  {
+    "path": "licenses\\dotnet\\runtime-10.0.12\\THIRD-PARTY-NOTICES.TXT",
+    "sha256": "6D15E10A101C6BFFF2AB4429ED061BF76C456FC4B23AD6B03E0D0F8377148A21"
+  },
+  {
+    "path": "licenses\\dotnet\\windows\\license-information-windows.md",
+    "sha256": "3BDF7142D570F11780D1A5FCB6CBE47F5CF4A15BC634ACF8DB93FE3BE8837119"
+  },
+  {
+    "path": "licenses\\dotnet\\windows\\license-information.md",
+    "sha256": "87F9974735FA705F5ED13367DE111B94D09573205C4B90E07CF6D8301081DC10"
+  },
+  {
+    "path": "licenses\\dotnet\\windows\\licensing-assets.md",
+    "sha256": "85B8DD253A396EF80785395FB4F6B0321DC2754A89EC6D7D0182C8C7127887D8"
+  },
+  {
+    "path": "licenses\\dotnet\\windows\\NET-Library-License.html",
+    "sha256": "0F69BE2C8AC44C3980047664C3347FF22CBA5842DC9D8B0A88A4F0914645A780"
+  },
+  {
+    "path": "licenses\\dotnet\\windows\\Windows-SDK-License.html",
+    "sha256": "BDABA3B5BFEC242B26E48C6795D703F549AC5C4B2D0EA6C65F09D294FFC030DC"
+  },
+  {
+    "path": "licenses\\dotnet\\wpf-runtime-10.0.12\\LICENSE",
+    "sha256": "A89886665765362EB77E0F8E26602C924520041D1711B2EEDC136434FE4D01AB"
+  },
+  {
+    "path": "licenses\\dotnet\\wpf-runtime-10.0.12\\package.nuspec",
+    "sha256": "07565A5CD782179E3B8C356CECA851796D8353C10A1EF14A400D43AC1ADD00CF"
+  },
+  {
+    "path": "licenses\\dotnet\\wpf-runtime-10.0.12\\UPSTREAM-THIRD-PARTY-NOTICES.TXT",
+    "sha256": "D23DBA2FEE20C6B59D8F7088EE9ED372459C952A319B7CA90F3EEC370CC76EB9"
+  },
+  {
+    "path": "licenses\\pdfium\\Adobe-CMap-LICENSE.txt",
+    "sha256": "40818155548FF41C67D3A40EDF355E9658992B292C227F4C1147425CEDC746C6"
+  },
+  {
+    "path": "licenses\\pdfium\\AGG-2.3-LICENSE.txt",
+    "sha256": "C5663042E0ADAA89A68897599F93350E606BD51CFDF5BE15D8825D15AEB964EB"
+  },
+  {
+    "path": "licenses\\pdfium\\BigInteger-LICENSE.txt",
+    "sha256": "32759D1397D8F7B9E15ECE146E4038B22B90E93B4935B5A840BCEF4D2BA5EA55"
+  },
+  {
+    "path": "licenses\\pdfium\\FreeType-FTL.txt",
+    "sha256": "08C135755DD589039470F1FDBB400DAAABAAA50D0B366D19CEBFF4D22986BAA1"
+  },
+  {
+    "path": "licenses\\pdfium\\ICU-LICENSE.txt",
+    "sha256": "24C771CE37201A3AB604852E47D10D21595D0493269DD6C8A5E567E998E18C00"
+  },
+  {
+    "path": "licenses\\pdfium\\libjpeg-turbo-LICENSE.md",
+    "sha256": "FFFD497BE5F4AE0A10B8258E191125FB58B90250ECBF3C79398D79604DD00B7D"
+  },
+  {
+    "path": "licenses\\pdfium\\libjpeg-turbo-README.ijg.txt",
+    "sha256": "53A3E3C299E08856964F4C5986E242C3695837B73C64625092F70C774E8AF5D2"
+  },
+  {
+    "path": "licenses\\pdfium\\libpng-LICENSE.txt",
+    "sha256": "1753C4A82215BECE93A45AD2A58FA541334C4B45FBB6584D4097C51ACAFFBD1B"
+  },
+  {
+    "path": "licenses\\pdfium\\LibTIFF-COPYRIGHT.txt",
+    "sha256": "FBD6FED7938541D2C809C0826225FC85E551FDBFA8732B10F0C87E0847ACAFD7"
+  },
+  {
+    "path": "licenses\\pdfium\\LittleCMS-LICENSE.txt",
+    "sha256": "0739E7A0431AEE039FE40E79DDADA5940E54989D1277033B27479D597F8AACEA"
+  },
+  {
+    "path": "licenses\\pdfium\\OpenJPEG-LICENSE.txt",
+    "sha256": "3BB15E16A50FD1EEF1EB3A16795048A78E875BE6F6137CA2E8980EC1D457EA4C"
+  },
+  {
+    "path": "licenses\\pdfium\\PDFium-LICENSE.txt",
+    "sha256": "B578CDD2345840ADA550BD12519533812320D5F1D21CF4C1C7E1B1B0A31C98B7"
+  },
+  {
+    "path": "licenses\\pdfium\\V8-LICENSE.strongtalk.txt",
+    "sha256": "6A585A9F466654ABC8FC0829D56B1BC987E3A073D31FAA03BBA37D33640A23CD"
+  },
+  {
+    "path": "licenses\\pdfium\\V8-LICENSE.txt",
+    "sha256": "2337A9CAEB13854242AF8D0022F8E57389E5EAE56FA3BF7887F5F38492B57199"
+  },
+  {
+    "path": "licenses\\pdfium\\V8-LICENSE.valgrind.txt",
+    "sha256": "CAE8C00CA6E90A682C321EC11E7A5A345D0D317AA0B8F038E03EF03A18095B2F"
+  },
+  {
+    "path": "licenses\\pdfium\\zlib-LICENSE.txt",
+    "sha256": "942755EFA272DBFBCD7AFEA7A38556801E36C16DCAD002D572378367094A2593"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\agg23-README.pdfium.txt",
+    "sha256": "B92C05447567FA03FDF8A677D56864605F566C812E13419CF2EF0CAAB6E6CEAC"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\FreeType-include-freetype-internal-fthash.h.txt",
+    "sha256": "92DC5E04BF846EF4A762CA99F17D1E9090EF38424677DB8790782022D7F92181"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\FreeType-LICENSE.TXT",
+    "sha256": "FD056DE4196903A676208EF58CFDDAFC7D583D1F28FA2E44C309CF84A59E62FB"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\freetype-README.pdfium.txt",
+    "sha256": "BCB57FA41015665C386C95BA8800AE8C9ADE224B9A4F5B9DE92903FFDADAB15A"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\FreeType-src-base-fthash.c.txt",
+    "sha256": "070C44530F36C1B85EC6B58619AE4C3F09A49E5F0998D2CC401720DABF792EC0"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\FreeType-src-bdf-README.txt",
+    "sha256": "46A6B868CE86A88B7485A0AC88408C1111996EE93172BC7C11219C1AF17084FE"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\FreeType-src-gzip-zlib.h.txt",
+    "sha256": "CBEA6FD5786004F24FFE1BA9897716BDC6E40B7D14229CA7886C21069A9C5F85"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\FreeType-src-pcf-README.txt",
+    "sha256": "18D9782898D9EAC04476E2F744678137B2A889689ED3E923E052FC396A86F86B"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\FreeType-src-psnames-pstables.h.txt",
+    "sha256": "67A4DEE05B7BB71F46E53026FA3FEFD23CA26604BA46741ACCAE82BC33FA9627"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\lcms-README.pdfium.txt",
+    "sha256": "034D916136CECECCDCB8A5AE07225BBC2865A36FAA35E36F4721512EF2CF1780"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\libopenjpeg20-README.pdfium.txt",
+    "sha256": "0A829DE568F77BC6E275A37E14ED2F98C40223F6F435AF594EBD49EE15BD1473"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\libpng16-README.pdfium.txt",
+    "sha256": "DAE45BD05ADCAC15FC0DB23BCC28CC76B042736C48B93B0295BDEE18E7D1013F"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\libtiff-README.pdfium.txt",
+    "sha256": "67253016D9E0FFB5D907C36531FC6139F2F5B5547A8DCA76ECB2EE21EC174BEE"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\LibTIFF-tif_aux-notice.txt",
+    "sha256": "71F5EA4FCD0AAB2436E95B22D499929EA81927702F9D2B2DB1F48B3C99A308E5"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\PDFium-build_overrides.gni.txt",
+    "sha256": "93BDA68902754DB301D8E4FA3F33E3ABA079DB2A3A3F27AD3258F4DF9E6ED1B1"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\PDFium-DEPS.txt",
+    "sha256": "7745B4E9791C1D72DD160D7770E606D556591B507D347429FE263AF6D1663553"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\PDFium-third_party-BUILD.gn.txt",
+    "sha256": "574E21FC62257A0C97B921A1965DD2BEA912F80001986595C6DC1F2744F55EB5"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\PdfiumBuild-args.gn.txt",
+    "sha256": "6C339673E1FD16949FCF97A17F7EA42B4546DD16AE4A7EAA211CE340ED4BE41E"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\PdfiumBuild-Env.cs.txt",
+    "sha256": "0F1EA75F2C15C8E3104C9B7B62940E4E95E422282637E88467702D262834323F"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\PdfiumViewer-native-shim-notice.txt",
+    "sha256": "E84182E127BC016A35BBB007B6E49847FC2CA4012609E13357030FBEF7EFE643"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-CNS1-UCS2_5-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-GB1-UCS2_5-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-Japan1-UCS2_4-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-Korea1-UCS2_2-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-UniCNS-UCS2-H-header.txt",
+    "sha256": "07FC9A1831350B464779C7ABA8B17AA4406BFD62B500A8EADE40DF3319DBB5BD"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-UniGB-UCS2-H-header.txt",
+    "sha256": "C11B1BFA4FB48629189220E8D61C34839A8CBF6D5EB2D471042B80C5700B0B9E"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-UniJIS-UCS2-H-header.txt",
+    "sha256": "99939BDB8E88F17CB01268785C2C4EC8DAAF6D34D9BB286A9C045AA19CD8994D"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\Adobe-UniKS-UCS2-H-header.txt",
+    "sha256": "9938D7D0329B87B7E760FF85C883AA79A5A07852E0F94860471C7AE1A2140927"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitDingbats-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitFixed-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitFixedBold-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitFixedBoldItalic-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitFixedItalic-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSans-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSansBold-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSansBoldItalic-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSansItalic-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSansMM-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSerif-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSerifBold-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSerifBoldItalic-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSerifItalic-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSerifMM-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfium\\reference\\font-cmap\\FoxitSymbol-notice.txt",
+    "sha256": "EBB477A0858CC15C82EBD34FE6BB7D851C4653005998F76FA57F87D167C46F06"
+  },
+  {
+    "path": "licenses\\pdfiumviewer\\Apache-2.0.txt",
+    "sha256": "CFC7749B96F63BD31C3C42B5C471BF756814053E847C10F3EB003417BC523D30"
+  },
+  {
+    "path": "licenses\\pdfiumviewer\\PdfiumViewer-2.13.0.nuspec",
+    "sha256": "B13540721B068AEEB371E67DFE5B3471D4EDDB01B57C216195628515F59FFC8B"
+  },
+  {
+    "path": "licenses\\pdfiumviewer\\PdfiumViewer.Native-2018.4.8.256.nuspec",
+    "sha256": "D472DFFD45DCFBF3B15A658EB0E3816B2DC2317C1E08C56A1A9EA3764227C7B8"
+  },
+  {
+    "path": "licenses\\tools\\dotnet-install\\LICENSE.TXT",
+    "sha256": "AE48DF11A335DC1A615F4F938B69CBA73BCF4485C4F97AF49B38EFB0F216353B"
+  },
+  {
+    "path": "licenses\\tools\\illink-10.0.12\\LICENSE.TXT",
+    "sha256": "AE48DF11A335DC1A615F4F938B69CBA73BCF4485C4F97AF49B38EFB0F216353B"
+  },
+  {
+    "path": "licenses\\tools\\illink-10.0.12\\package.nuspec",
+    "sha256": "BF5762457B552FED442157EB53C6C6693DED498ECFD5581A77CBDB3898BDA628"
+  },
+  {
+    "path": "licenses\\tools\\illink-10.0.12\\THIRD-PARTY-NOTICES.TXT",
+    "sha256": "6D15E10A101C6BFFF2AB4429ED061BF76C456FC4B23AD6B03E0D0F8377148A21"
+  }
+]

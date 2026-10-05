@@ -1,0 +1,13 @@
+中文参考译文
+对应原文：AGG-2.3-LICENSE.txt
+正式条款以原文为准；本译文不替代随附原文。
+
+Anti-Grain Geometry —— 版本 2.3
+版权所有 © 2002-2005 Maxim Shemanarev (http://www.antigrain.com)
+
+允许复制、使用、修改、销售和分发本软件，条件是在所有副本中保留本版权声明。本软件按“现状”提供，不提供明示或默示担保，也不就其对任何用途的适用性作出声明。
+
+联系方式：
+mcseem@antigrain.com
+mcseemagg@yahoo.com
+http://www.antigrain.com

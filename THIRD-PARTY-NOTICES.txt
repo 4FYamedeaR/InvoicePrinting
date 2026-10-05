@@ -1,0 +1,139 @@
+InvoicePrinting — 第三方软件声明
+整理日期：2026-10-05
+
+InvoicePrinting 的原始代码和文档采用 Apache-2.0。第三方组件保留各自的
+许可证。本文件及随附许可资料不对第三方软件重新授权。
+分发应用程序时，请一并保留 LICENSE、LICENSE.zh-CN、NOTICE、本文件、
+DISTRIBUTION-TERMS.txt 和 licenses/ 目录。
+许可证中文译文为阅读参考，正式条款以随附上游原文为准。
+
+1. PdfiumViewer
+----------------
+包名及版本：PdfiumViewer 2.13.0
+作者：Pieter van Ginkel
+版权声明：Pieter van Ginkel (c) 2012-2015
+许可证：Apache 许可证 2.0 版（Apache-2.0）
+项目：https://github.com/pvginkel/PdfiumViewer
+包：https://www.nuget.org/packages/PdfiumViewer/2.13.0
+中文译文：licenses/pdfiumviewer/Apache-2.0.zh-CN.txt
+许可原文：licenses/pdfiumviewer/Apache-2.0.txt
+包元数据：licenses/pdfiumviewer/PdfiumViewer-2.13.0.nuspec
+
+InvoicePrinting 通过该包的公开接口使用其功能。本项目未包含对上游库源码
+的修改。
+
+2. PDFium 原生发行包
+--------------------
+包名及版本：PdfiumViewer.Native.x86_64.v8-xfa 2018.4.8.256
+打包者：Pieter van Ginkel / PdfiumBuild
+项目：https://github.com/pvginkel/PdfiumBuild
+包：
+https://www.nuget.org/packages/PdfiumViewer.Native.x86_64.v8-xfa/2018.4.8.256
+包元数据：
+licenses/pdfiumviewer/PdfiumViewer.Native-2018.4.8.256.nuspec
+
+包元数据指向 Apache-2.0。原生 pdfium.dll 包含 PDFium 及采用独立许可证的
+其他组件；包的许可标签不替代这些组件的许可证。
+
+内嵌 DLL 与以下 PdfiumBuild 归档二进制文件一致：
+Builds/2018-04-08/PdfiumViewer-x64-v8-xfa/pdfium.dll
+SHA-256：
+2A5657754571DCFFE5490908F46D5898C34AAE0AA926B2FF7CF7A248F980A1E6
+归档：
+https://github.com/pvginkel/PdfiumBuild/blob/master/Builds/2018-04-08/PdfiumViewer-x64-v8-xfa/pdfium.dll
+
+已识别的原生组件及随附许可资料：
+
+- PDFium：BSD-3-Clause；licenses/pdfium/PDFium-LICENSE.txt。
+- V8：BSD-3-Clause 及相关第三方声明；licenses/pdfium/V8-LICENSE.txt
+  和 V8-LICENSE.strongtalk.txt。
+- FreeType：FreeType 许可证（FTL）；licenses/pdfium/FreeType-FTL.txt。
+- ICU 60 系列：ICU/Unicode 许可及所含数据声明；
+  licenses/pdfium/ICU-LICENSE.txt。
+- libpng：libpng 许可证；licenses/pdfium/libpng-LICENSE.txt。
+- libjpeg-turbo：IJG、修改版 BSD 和 zlib 许可条款，见
+  licenses/pdfium/libjpeg-turbo-LICENSE.md、libjpeg-turbo-README.ijg.txt、
+  libjpeg-turbo-TurboJPEG-LICENSE.txt 和 libjpeg-turbo-SIMD-LICENSE.txt。
+- OpenJPEG：BSD-2-Clause；licenses/pdfium/OpenJPEG-LICENSE.txt。
+
+上述许可文件均附有名称包含 .zh-CN 的中文参考译文，路径及对应原文见
+licenses/pdfium/sources.json。
+
+必需署名的中文解释：本软件使用 FreeType，部分内容基于 FreeType 团队
+的成果；部分内容基于独立 JPEG 小组的成果。保留以下上游英文署名原文：
+This software uses FreeType and is based in part on the work of the FreeType
+Team.
+This software is based in part on the work of the Independent JPEG Group.
+
+从对应历史时期源码收集的补充声明还覆盖 AGG 2.3、Little CMS、LibTIFF、
+zlib、Big Integer Library、字体/CMap 数据及相关第三方资料。原文、版本、
+来源链接、哈希值和各项参考资料的适用范围见 licenses/pdfium/README.md、
+ATTRIBUTIONS.txt、FONT-CMAP-NOTICES.txt 和 sources.json。
+
+归档未记录构建时 PDFium 及内嵌组件的精确源码版本。来源记录中的历史
+参考提交不代表已确认用于构建该 DLL 的提交。记录区分二进制来源确认
+与历史补充资料覆盖，不是从完整构建生成的软件物料清单（SBOM）。
+
+3. .NET 和 WPF
+---------------
+目标框架：net10.0-windows
+所收集的运行时包声明：10.0.12，Windows x64
+项目：https://github.com/dotnet/runtime 和 https://github.com/dotnet/wpf
+版权所有者：.NET Foundation 及贡献者、Microsoft Corporation，以及随附
+声明中列出的其他版权所有者。
+
+.NET/WPF 源码和许多二进制文件采用 MIT 许可证。Microsoft 为下列 Windows
+二进制组件指定了例外许可：
+
+- coreclr.dll 及单文件应用所包含的 .NET 运行时：Microsoft .NET 库许可证。
+- Microsoft.DiaSymReader.Native.amd64.dll（以及存在时对应的 x86/ARM
+  版本）：Microsoft .NET 库许可证。
+- PresentationNative_cor3.dll、vcruntime140_cor3.dll、wpfgfx_cor3.dll：
+  Microsoft .NET 库许可证。
+- D3DCompiler_47_cor3.dll：Microsoft Windows SDK 许可证。
+
+许可原文和声明：
+- licenses/dotnet/runtime-10.0.12/LICENSE.TXT
+- licenses/dotnet/runtime-10.0.12/THIRD-PARTY-NOTICES.TXT
+- licenses/dotnet/wpf-runtime-10.0.12/LICENSE
+- licenses/dotnet/wpf-runtime-10.0.12/UPSTREAM-THIRD-PARTY-NOTICES.TXT
+- licenses/dotnet/windows/NET-Library-License.html
+- licenses/dotnet/windows/Windows-SDK-License.html
+- licenses/dotnet/windows/license-information-windows.md
+
+Windows 例外许可的中文参考译文：
+- licenses/dotnet/windows/NET-Library-License.zh-CN.txt
+- licenses/dotnet/windows/Windows-SDK-License.zh-CN.txt
+
+其余许可及声明的中文译文、原始运行时包元数据和来源记录保存在
+licenses/dotnet/。包级 MIT 元数据不覆盖 Windows 二进制文件的专门许可。
+.NET 和 WPF 的声明集合包含各自的第三方署名，原文已完整保留；集合中
+出现某个组件，不意味着其所有平台版本都链接进本 Windows 应用。
+
+4. 仅开发阶段使用的工具
+-----------------------
+以下声明针对开发工具，不表示这些工具已内嵌到应用程序：
+
+- Microsoft.NET.ILLink.Tasks 10.0.12：MIT 及其随附第三方声明。
+  文件目录：licenses/tools/illink-10.0.12/。
+- dotnet-install.ps1：MIT，版权所有 © .NET Foundation 及贡献者。
+  文件：licenses/tools/dotnet-install/LICENSE.TXT。
+
+本地 SDK 目录和安装脚本已由 .gitignore 排除。若单独分发这些工具，
+应保留适用的许可声明。
+
+5. 系统资源和文档引用
+---------------------
+Segoe UI、Microsoft YaHei UI 和 Consolas 仅通过字体族名称引用，由用户
+的 Windows 系统解析。本项目未打包这些 Windows 字体文件。项目采用
+Apache-2.0 不意味着获得 Windows 字体的再分发权。
+
+产品设计文档中指向 WPS、Microsoft 和 Rust 公开文档的链接用于说明参考
+来源；本项目不对这些网站、产品或资料进行再许可，也未包含 WPS 运行时
+组件。
+
+6. 来源记录和维护
+-----------------
+各组件目录中包含所收集文件的来源记录及 SHA-256 校验值。请保留原始
+许可正文和版权声明。变更包版本、原生二进制文件或随附运行时时，应按
+实际分发的版本更新许可文件、中文参考译文及来源记录。

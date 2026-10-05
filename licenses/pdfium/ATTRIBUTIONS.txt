@@ -1,0 +1,27 @@
+InvoicePrinting —— PDF 渲染依赖署名
+
+本应用使用 PdfiumViewer，以及来自 PdfiumViewer.Native.x86_64.v8-xfa
+2018.4.8.256 NuGet 包的未修改原生 PDFium DLL。应用嵌入并加载该 DLL，
+没有修改上游 PDFium 或第三方库源码。这不代表原包作者或 Chromium
+没有在原始构建中应用补丁。
+
+以下必要英文署名原句保留，并提供中文含义：
+
+This software is based in part on the work of the FreeType Team.
+本软件的部分内容基于 FreeType Team 的工作。
+
+This software is based in part on the work of the Independent JPEG Group.
+本软件的部分内容基于 Independent JPEG Group 的工作。
+
+PDFium / V8 原始版权声明及中文含义：
+Copyright 2014 PDFium Authors. All rights reserved.
+版权所有 © 2014 PDFium Authors，保留所有权利。
+Copyright 2014, the V8 project authors. All rights reserved.
+版权所有 © 2014 V8 项目作者，保留所有权利。
+
+本署名与本目录中的原始许可证、版权和免责声明一同提供，不替代这些
+原文。另附的历史参考声明不表示每个被引用组件都链接进了 DLL。
+
+源码修订状态和范围限制见本目录 README.md 和 sources.json。
+项目自身许可与 PdfiumViewer 包的条款见根目录 LICENSE、NOTICE、
+THIRD-PARTY-NOTICES.txt 及 ../pdfiumviewer/。

@@ -1,0 +1,11 @@
+# 项目文本使用 LF，图片按二进制处理。
+* text=auto eol=lf
+*.png binary
+
+# 许可核验依据原始字节，禁止 Git 改写这些文件的换行。
+LICENSE -text
+LICENSE.zh-CN -text
+NOTICE -text
+THIRD-PARTY-NOTICES.txt -text
+DISTRIBUTION-TERMS.txt -text
+licenses/** -text

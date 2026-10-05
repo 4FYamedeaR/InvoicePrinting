@@ -1,0 +1,81 @@
+中文参考译文
+对应原文：libpng-LICENSE.txt
+正式条款以原文为准；本译文不替代随附原文。
+
+为方便阅读而提供这份 libpng 声明副本。若本副本与 libpng 发行包中 png.h 文件内的声明存在差异，以 png.h 中的声明为准。
+
+版权声明、免责声明及许可证
+
+如果修改 libpng，可在本句之后紧接着插入附加声明。
+
+本代码依据 libpng 许可证发布。
+
+libpng 1.0.7（2000 年 7 月 1 日）至 1.6.22（2016 年 5 月 26 日）的版权归 © 2000-2002、2004、2006-2016 Glenn Randers-Pehrson 所有。这些版本衍生自 libpng-1.0.6，并依据与 libpng-1.0.6 相同的免责声明和许可证分发，贡献作者名单新增：
+
+Simon-Pierre Cadieux
+Eric S. Raymond
+Mans Rullgard
+Cosmin Truta
+Gilles Vollant
+James Yu
+
+免责声明增加如下内容：
+
+不担保您对本库的享用不会受到干扰，也不担保不侵权。不担保我们的努力或本库能够满足您任何特定的目的或需要。本库连同其全部缺陷一起提供，满意质量、性能、准确性及投入所涉及的全部风险由用户承担。
+
+contrib 目录中的一些文件，以及随 libpng 分发的一些由 configure 生成的文件，具有其他版权持有人，并依据其他开源许可证发布。
+
+libpng 0.97（1998 年 1 月）至 1.0.6（2000 年 3 月 20 日）的版权归 © 1998-2000 Glenn Randers-Pehrson 所有。这些版本衍生自 libpng-0.96，并依据与 libpng-0.96 相同的免责声明和许可证分发，贡献作者名单新增：
+
+Tom Lane
+Glenn Randers-Pehrson
+Willem van Schaik
+
+libpng 0.89（1996 年 6 月）至 0.96（1997 年 5 月）的版权归 © 1996-1997 Andreas Dilger 所有。这些版本衍生自 libpng-0.88，并依据与 libpng-0.88 相同的免责声明和许可证分发，贡献作者名单新增：
+
+John Bowler
+Kevin Bracey
+Sam Bushell
+Magnus Holmgren
+Greg Roelofs
+Tom Tanner
+
+scripts 目录中的一些文件具有其他版权持有人，但也依据本许可证发布。
+
+libpng 0.5（1995 年 5 月）至 0.88（1996 年 1 月）的版权归 © 1995-1996 Guy Eric Schalnat, Group 42, Inc. 所有。
+
+在本版权声明和许可证中，“贡献作者”定义为以下人员：
+
+Andreas Dilger
+Dave Martindale
+Guy Eric Schalnat
+Paul Schmidt
+Tim Wegner
+
+PNG 参考库按“现状”提供。贡献作者和 Group 42, Inc. 不提供任何明示或默示担保，包括但不限于适销性及任何用途适用性的担保。贡献作者和 Group 42, Inc. 对因使用 PNG 参考库可能造成的任何直接、间接、附带、特殊、惩罚性或后果性损害不承担责任，即使已被告知此类损害可能发生。
+
+现允许为任何目的免费使用、复制、修改和分发本源代码或其部分内容，但须遵守以下限制：
+
+1. 不得歪曲本源代码的来源。
+2. 修改过的版本必须明确标注，且不得将其冒称为原始源代码。
+3. 不得从任何源代码或修改后的源代码发行包中删除或更改本版权声明。
+
+贡献作者和 Group 42, Inc. 明确允许并鼓励无偿将本源代码作为支持 PNG 文件格式的组件用于商业产品。在产品中使用本源代码时，署名致谢不是必需条件，但受到欢迎。
+
+版权声明、免责声明及许可证结束。
+
+商标
+
+版权持有人未在任何司法管辖区将 libpng 名称注册为商标。但鉴于 libpng 自 1995 年以来一直在全球范围内持续分发和维护，版权持有人在承认普通法商标的司法管辖区主张“普通法商标保护”。
+
+OSI 认证
+
+Libpng 是通过 OSI 认证的开源软件。OSI Certified Open Source 是 Open Source Initiative 的认证标志。OSI 未就版本 1.0.7 中增加的免责声明作出处理。
+
+出口管制
+
+版权持有人认为，libpng 的出口管制分类号（ECCN）为 EAR99，即不受出口管制或 International Traffic in Arms Regulations（ITAR）的约束，因为它是公开提供且不包含加密软件的开源软件。参见 EAR 第 734.3(b)(3) 及 734.7(b) 段。
+
+Glenn Randers-Pehrson
+glennrp at users.sourceforge.net
+2016 年 5 月 26 日

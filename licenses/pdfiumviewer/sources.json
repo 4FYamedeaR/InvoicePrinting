@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 1,
+  "collectedOn": "2026-10-05",
+  "entries": [
+    {
+      "path": "licenses/pdfiumviewer/Apache-2.0.txt",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "component": "PdfiumViewer 及原生 NuGet 包元数据",
+      "scope": "Apache-2.0 包级许可参考；原生库内嵌组件保留各自的许可证",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "licenses/pdfiumviewer/PdfiumViewer-2.13.0.nuspec",
+      "url": "https://www.nuget.org/packages/PdfiumViewer/2.13.0",
+      "sourceLocalPath": "${NuGetPackageRoot}/pdfiumviewer/2.13.0/pdfiumviewer.nuspec",
+      "component": "PdfiumViewer",
+      "version": "2.13.0",
+      "scope": "从已还原的 NuGet 包原样保存的元数据",
+      "sha256": "b13540721b068aeeb371e67dfe5b3471d4eddb01b57c216195628515f59ffc8b"
+    },
+    {
+      "path": "licenses/pdfiumviewer/PdfiumViewer.Native-2018.4.8.256.nuspec",
+      "url": "https://www.nuget.org/packages/PdfiumViewer.Native.x86_64.v8-xfa/2018.4.8.256",
+      "sourceLocalPath": "${NuGetPackageRoot}/pdfiumviewer.native.x86_64.v8-xfa/2018.4.8.256/pdfiumviewer.native.x86_64.v8-xfa.nuspec",
+      "component": "PdfiumViewer.Native.x86_64.v8-xfa",
+      "version": "2018.4.8.256",
+      "scope": "原样保存的元数据；不构成内嵌 DLL 的完整许可声明",
+      "sha256": "d472dffd45dcfbf3b15a658eb0e3816b2dc2317c1e08c56a1a9ea3764227c7b8"
+    },
+    {
+      "path": "LICENSE.zh-CN",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "component": "Apache 许可证 2.0 版",
+      "scope": "项目许可证的完整中文参考译文；英文原文为正式条款",
+      "translationOf": "LICENSE",
+      "originalSha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "sha256": "518ca75e2e36f93f9cb260085ec600290843ba63516136df8f50223eaa6add10",
+      "language": "zh-CN",
+      "translationStatus": "项目提供的中文参考译文，非上游正式原文"
+    },
+    {
+      "path": "licenses/pdfiumviewer/Apache-2.0.zh-CN.txt",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.txt",
+      "component": "PdfiumViewer 及原生 NuGet 包元数据",
+      "scope": "Apache-2.0 包级许可的完整中文参考译文；内嵌第三方组件保留各自许可",
+      "translationOf": "licenses/pdfiumviewer/Apache-2.0.txt",
+      "originalSha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "sha256": "518ca75e2e36f93f9cb260085ec600290843ba63516136df8f50223eaa6add10",
+      "language": "zh-CN",
+      "translationStatus": "项目提供的中文参考译文，非上游正式原文"
+    }
+  ],
+  "translationPolicy": "中文参考译文与英文原文分别保存；英文原文为正式条款，译文不改变原文权利或义务。"
+}

@@ -1,0 +1,25 @@
+中文参考译文
+对应原文：V8-LICENSE.txt
+正式条款以原文为准；本译文不替代随附原文。
+
+本许可证适用于 V8 中不属于外部维护库的所有部分。V8 使用的外部维护库包括：
+
+* PCRE 测试套件，位于 test/mjsunit/third_party/regexp-pcre/regexp-pcre.js。它基于 PCRE-7.3 的测试套件，其版权归 University of Cambridge 和 Google, Inc. 所有。版权声明和许可证嵌入在 regexp-pcre.js 中。
+* 布局测试，位于 test/mjsunit/third_party/object-keys。它们基于 webkit.org 的布局测试，其版权归 Apple Computer, Inc. 所有，并依据三条款 BSD 许可证发布。
+* Strongtalk 汇编器，是 assembler-arm-inl.h、assembler-arm.cc、assembler-arm.h、assembler-ia32-inl.h、assembler-ia32.cc、assembler-ia32.h、assembler-x64-inl.h、assembler-x64.cc、assembler-x64.h、assembler-mips-inl.h、assembler-mips.cc、assembler-mips.h、assembler.cc 和 assembler.h 等文件的基础。该代码版权归 Sun Microsystems Inc. 所有，并依据三条款 BSD 许可证发布。
+* Valgrind 客户端 API 头文件，位于 third_party/valgrind/valgrind.h，依据 BSD 许可证发布。
+
+这些库各有自己的许可证；建议阅读，因为它们的条款可能与以下条款不同。
+
+还可在各子目录的 LICENSE 文件中找到进一步的许可信息。
+
+Copyright 2014, the V8 project authors. All rights reserved.
+版权所有 © 2014 V8 项目作者，保留所有权利。
+
+允许以源代码和二进制形式重新分发及使用本软件，无论是否修改，但须满足以下条件：
+
+* 重新分发源代码时，必须保留上述版权声明、本条件清单及以下免责声明。
+* 以二进制形式重新分发时，必须在随附文档和／或其他材料中复制上述版权声明、本条件清单及以下免责声明。
+* 未经事先取得具体的书面许可，不得使用 Google Inc. 或其贡献者的名称为本软件衍生的产品背书或进行推广。
+
+本软件由版权持有人和贡献者按“现状”提供，不提供任何明示或默示担保，包括但不限于适销性及特定用途适用性的默示担保。无论损害如何发生、依据何种责任理论，包括合同责任、严格责任或侵权责任（包括过失或其他情形），版权持有人或贡献者在任何情况下均不对以任何方式因使用本软件而产生的任何直接、间接、附带、特殊、惩罚性或后果性损害承担责任，包括但不限于购买替代商品或服务的费用、使用损失、数据损失、利润损失或业务中断，即使已被告知此类损害可能发生。

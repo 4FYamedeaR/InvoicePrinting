@@ -1,0 +1,12 @@
+中文参考译文
+对应原文：FreeType-src-psnames-pstables.h.txt
+正式条款以原文为准；本译文不替代随附原文。
+本译文完整翻译源文件开头的版权及许可注释；字形名、数据表、源程序语法和标识符不作翻译。
+
+pstables.h —— PostScript 字形名称
+
+版权所有 © 2005-2018 David Turner、Robert Wilhelm 和 Werner Lemberg。
+
+本文件属于 FreeType 项目，只能依据 FreeType 项目许可 LICENSE.TXT 的条款进行使用、修改和分发。继续使用、修改或分发本文件，即表明您已经阅读该许可证，并充分理解和接受其内容。
+
+本文件由程序自动生成，请勿编辑。

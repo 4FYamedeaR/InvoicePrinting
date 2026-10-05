@@ -1,0 +1,60 @@
+PDFium 内嵌字体与 CMap 声明参考资料
+
+范围：reference-coverage（历史参考覆盖）。归档 DLL 包含字体、字形和
+数据字符串，但尚未确认精确的内嵌字体／CMap 源码修订及底层输入数据。
+以下文档不证明每项内嵌字体程序或 CMap 表的来源和许可资料已经完整。
+
+历史 PDFium 源码参考提交：
+6058efdbdc186e120e7e2121c290ac4d820ffbf8
+
+参考的 Foxit 字体数据源文件及代表性 CMap 文件的完整开头声明如下。
+上游版权原句保留，中文含义见后文及各 .zh-CN 译文：
+
+// Copyright 2014 PDFium Authors. All rights reserved.
+// Use of this source code is governed by a BSD-style license that can be
+// found in the LICENSE file.
+
+// Original code copyright 2014 Foxit Software Inc. http://www.foxitsoftware.com
+
+中文含义：版权所有 © 2014 PDFium Authors，保留所有权利。使用本源码
+须遵守 LICENSE 文件中的 BSD 风格许可证。原始代码版权归 © 2014
+Foxit Software Inc. (http://www.foxitsoftware.com) 所有。
+
+这些头部声明所引用的原始 BSD 许可证见 PDFium-LICENSE.txt，完整中文
+参考译文见 PDFium-LICENSE.zh-CN.txt。每份完整原始声明头及其中文译文
+另存于 reference/font-cmap/，URL 与哈希登记在 sources.json 中：
+
+FoxitDingbats, FoxitFixed, FoxitFixedBold, FoxitFixedBoldItalic,
+FoxitFixedItalic, FoxitSans, FoxitSansBold, FoxitSansBoldItalic,
+FoxitSansItalic, FoxitSansMM, FoxitSerif, FoxitSerifBold,
+FoxitSerifBoldItalic, FoxitSerifItalic, FoxitSerifMM, FoxitSymbol;
+Adobe-CNS1-UCS2_5, Adobe-GB1-UCS2_5, Adobe-Japan1-UCS2_4,
+Adobe-Korea1-UCS2_2.
+
+附加的 Adobe 历史参考资料：
+https://github.com/adobe-type-tools/cmap-resources
+参考提交：727f4119d16016d34dca031cb9bff81c98396ea7
+（2018-04-08 前该仓库的最后一次提交；未证实是 DLL 使用的输入。）
+
+Adobe-CMap-LICENSE.txt 保留仓库许可全文；对应 .zh-CN.txt 提供完整中文
+参考译文。包含原始版权、许可条件和免责声明的完整 PostScript 头部
+另存于 reference/font-cmap/，各有相应的中文参考译文：
+
+Adobe-UniCNS-UCS2-H-header.txt
+Adobe-UniGB-UCS2-H-header.txt
+Adobe-UniJIS-UCS2-H-header.txt
+Adobe-UniKS-UCS2-H-header.txt
+
+这些补充 Adobe 文件的数据修订可能不同于 PDFium 内嵌表，不应将其
+版本或版权年份代替已经验证的二进制来源。确定字体／CMap 清单仍需
+归档构建的源码树及相应输入资源。
+
+与 FreeType 有关的 PostScript 字形名参考资料：
+reference/FreeType-src-psnames-pstables.h.txt 保留历史 FreeType 修订中的
+完整原文件及原始 FTL 许可选择声明。其 .zh-CN.txt 完整翻译开头版权
+和许可注释，源代码语法与数据表不作翻译。FreeType 的原始许可选择
+和文件级例外资料保留于 reference/；本资料集采用 FreeType-FTL.txt
+所列的 FTL 许可路径。
+
+应用没有另行分发为产品功能下载的字体或 CMap 资源。这些文件是 PDF
+渲染依赖的版权／许可文档，不是新增的应用功能资源。

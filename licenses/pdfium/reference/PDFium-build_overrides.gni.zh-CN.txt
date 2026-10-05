@@ -1,0 +1,11 @@
+中文参考译文
+对应原文：PDFium-build_overrides.gni.txt
+正式条款以原文为准；本译文不替代随附原文。
+仅翻译完整的开头版权／许可声明及其下方构建说明；选项标识符及赋值代码保持原样于原文。
+
+版权所有 © 2016 The Chromium Authors，保留所有权利。
+使用本源码须遵守 LICENSE 文件中所列的 BSD 风格许可证。
+
+本文件包含 PDFium 有关的构建覆盖设置。
+构建 PDFium 时，可使用内嵌 FreeType 库，或使用 //build/config/freetype 中定义的 FreeType 构建目标。
+默认：使用内嵌 FreeType。

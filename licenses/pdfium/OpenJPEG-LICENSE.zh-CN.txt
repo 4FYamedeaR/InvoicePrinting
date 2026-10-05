@@ -1,0 +1,26 @@
+中文参考译文
+对应原文：OpenJPEG-LICENSE.txt
+正式条款以原文为准；本译文不替代随附原文。
+
+本软件的版权许可依据下文所列二条款 BSD 许可证提供。本软件可能涉及其他第三方及贡献者的权利，包括专利权；本许可证不授予此类权利。
+
+版权所有 © 2002-2014 Universite catholique de Louvain (UCL), Belgium
+版权所有 © 2002-2014 Professor Benoit Macq
+版权所有 © 2001-2003 David Janssens
+版权所有 © 2002-2003 Yannick Verschueren
+版权所有 © 2003-2007 Francois-Olivier Devaux
+版权所有 © 2003-2014 Antonin Descampe
+版权所有 © 2005 Herve Drolon, FreeImage Team
+版权所有 © 2006-2007 Parvatha Elangovan
+版权所有 © 2008 Jerome Fimes, Communications & Systemes <jerome.fimes@c-s.fr>
+版权所有 © 2010-2011 Kaori Hagihara
+版权所有 © 2011-2012 Centre National d'Etudes Spatiales (CNES), France
+版权所有 © 2012 CS Systemes d'Information, France
+保留所有权利。
+
+允许以源代码和二进制形式重新分发及使用本软件，无论是否修改，但须满足以下条件：
+
+1. 重新分发源代码时，必须保留上述版权声明、本条件清单及以下免责声明。
+2. 以二进制形式重新分发时，必须在随附文档和／或其他材料中复制上述版权声明、本条件清单及以下免责声明。
+
+本软件由版权持有人和贡献者按“现状”提供，不提供任何明示或默示担保，包括但不限于适销性及特定用途适用性的默示担保。无论损害如何发生、依据何种责任理论，包括合同责任、严格责任或侵权责任（包括过失或其他情形），版权持有人或贡献者在任何情况下均不对以任何方式因使用本软件而产生的任何直接、间接、附带、特殊、惩罚性或后果性损害承担责任，包括但不限于购买替代商品或服务的费用、使用损失、数据损失、利润损失或业务中断，即使已被告知此类损害可能发生。
